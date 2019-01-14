@@ -1,0 +1,1 @@
+This repository is the work of @tomm ([original repository here](https://github.com/tomm/cryptkeeper/)) which I wanted to keep using and needed to make some changes to so it would keep compiling. Please raise any issues over at the upstream repository. If you still would like for changes to happen to _this_ repository, please open a PR.
